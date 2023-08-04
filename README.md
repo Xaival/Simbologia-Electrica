@@ -8,6 +8,11 @@ Este repositorio contiene un archivo HTML interactivo con una colección de sím
 - Descripciones detalladas para cada símbolo.
 - Descarga el archivo HTML para acceder a la simbología en cualquier momento.
 
+## Archivos Adobe Illustrator
+-`Simbologia.ai`
+
+-`Simbologia Cubic.ai`
+
 
 ¡Explora la simbología eléctrica!
 
