@@ -11,4 +11,4 @@ Este repositorio contiene un archivo HTML interactivo con una colección de sím
 
 ¡Explora la simbología eléctrica!
 
-[Enlace al archivo HTML](ruta/al/archivo.html)
+[Enlace al archivo HTML](https://xaival.github.io/Simbologia-Electrica/Simbologia.html)
