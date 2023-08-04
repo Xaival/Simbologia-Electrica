@@ -9,8 +9,8 @@ Este repositorio contiene un archivo HTML interactivo con una colección de sím
 - Descarga el archivo HTML para acceder a la simbología en cualquier momento.
 
 ## Archivos Adobe Illustrator
-- `Simbologia.ai`:
-- `Simbologia Cubic.ai`:
+- `Simbologia.ai` : Simbologia en plantilla cuadriculada
+- `Simbologia Cubic.ai`: Simbologia
 
 
 ¡Explora la simbología eléctrica!
