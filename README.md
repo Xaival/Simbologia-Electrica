@@ -15,4 +15,4 @@ Este repositorio contiene un archivo HTML interactivo con una colección de sím
 
 ¡Explora la simbología eléctrica!
 
-[Visualizar HTML](https://xaival.github.io/Simbologia-Electrica/Simbologia.html)
+[Visualizar HTML](https://xaival.github.io/Simbologia-Electrica/index.html)
